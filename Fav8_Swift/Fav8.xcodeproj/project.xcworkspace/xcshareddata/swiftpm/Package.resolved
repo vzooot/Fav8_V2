@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "anycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flight-School/AnyCodable",
+      "state" : {
+        "revision" : "862808b2070cd908cb04f9aafe7de83d35f81b05",
+        "version" : "0.6.7"
+      }
+    },
+    {
+      "identity" : "fav8server",
+      "kind" : "localSourceControl",
+      "location" : "/Users/Administrator/Lab/Fav8/fav8/client/Fav8Server",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f3a3c204ecf8475fc6e01b666557ed1e1c0d7b2a"
+      }
+    }
+  ],
+  "version" : 2
+}
